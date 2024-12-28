@@ -2,3 +2,4 @@
 target/
 .gigaide/
 .idea/
+guacamole-client.iml
