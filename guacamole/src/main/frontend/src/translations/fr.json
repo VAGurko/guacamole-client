@@ -481,6 +481,7 @@
     "PLAYER" : {
 
         "ACTION_CANCEL"       : "@:APP.ACTION_CANCEL",
+        "ACTION_CLOSE"        : "Fermer",
         "ACTION_PAUSE"        : "@:APP.ACTION_PAUSE",
         "ACTION_PLAY"         : "@:APP.ACTION_PLAY",
         "ACTION_SHOW_KEY_LOG" : "Journal des frappes",
@@ -681,6 +682,7 @@
         "FIELD_OPTION_SECURITY_TLS"   : "Chiffrement TLS",
         "FIELD_OPTION_SECURITY_VMCONNECT" : "Hyper-V / VMConnect",
 
+        "FIELD_OPTION_SERVER_LAYOUT_CS_CZ_QWERTZ" : "Tchèque (Qwertz)",
         "FIELD_OPTION_SERVER_LAYOUT_DA_DK_QWERTY" : "Danois (Qwerty)",
         "FIELD_OPTION_SERVER_LAYOUT_DE_CH_QWERTZ" : "Suisse Allemand (Qwertz)",
         "FIELD_OPTION_SERVER_LAYOUT_DE_DE_QWERTZ" : "Allemand (Qwertz)",
